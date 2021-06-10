@@ -1,2 +1,2 @@
 # ionic
-ionic projects are here
+Vanilla js project
